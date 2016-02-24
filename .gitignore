@@ -2,7 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs
 /packages
-/.vs/config
 /Common/obj/Debug
 /Common/bin/Debug
+/SpeakImageOverlay/bin
+/SpeakImageOverlay/obj
