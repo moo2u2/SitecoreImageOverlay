@@ -1,0 +1,15 @@
+﻿@using Glass.Mapper.Sc.Web.Mvc
+@model SpeakImageOverlay.Models.IPage
+
+@{
+    string[] coordinates = SpeakImageOverlay.Models.Constants.OverlayDefaultCoordinates.Split(',');
+    if (Model != null && Model.PageImage != null && !string.IsNullOrEmpty(Model.PageImage.OverlayCoordinates))
+    {
+        coordinates = Model.PageImage.OverlayCoordinates.Split(',');
+    }
+}
+
+<div style="position: relative">
+    @Html.Glass().RenderImage(Model, m => m.PageImage, new { style = "position: absolute;  max-width: 100%;" }, true)
+    <img src="~/Content/images/overlay.png" style="position: absolute; width: 50px; top: @coordinates[1]px; left: @coordinates[0]px" />
+</div>

@@ -1,0 +1,182 @@
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\obj\Debug\SpeakImageOverlay.csprojResolveAssemblyReference.cache
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\csc.exe
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.Collections.Immutable.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\vbc.exe
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\VBCSCompiler.exe
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\VBCSCompiler.exe.config
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\SpeakImageOverlay.dll.config
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\SpeakImageOverlay.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\SpeakImageOverlay.pdb
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Antlr3.Runtime.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Castle.Core.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Castle.Windsor.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.CastleWindsor.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.Mvc.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Microsoft.Web.Infrastructure.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Newtonsoft.Json.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Kernel.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Mvc.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Helpers.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Mvc.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Razor.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.Deployment.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.Razor.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Lucene.Net.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\ITHit.WebDAV.Server.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Logging.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\HtmlAgilityPack.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Mvp.Xml.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\ComponentArt.Web.UI.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Zip.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.NVelocity.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Logging.Client.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\RadEditor.Net2.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Telerik.Web.UI.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Castle.Core.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Castle.Windsor.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.pdb
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.pdb
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.CastleWindsor.pdb
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.CastleWindsor.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.Mvc.pdb
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.Mvc.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Kernel.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Helpers.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Mvc.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Razor.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.Deployment.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.Razor.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Antlr3.Runtime.pdb
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Newtonsoft.Json.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Lucene.Net.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\HtmlAgilityPack.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Telerik.Web.UI.xml
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\obj\Debug\SpeakImageOverlay.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\obj\Debug\SpeakImageOverlay.pdb
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\csc.exe.config
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\csc.rsp
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\csi.exe
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\csi.rsp
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.AppContext.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.Console.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.IO.FileSystem.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\vbc.exe.config
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\vbc.rsp
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Kamsar.WebConsole.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\MicroCHAP.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Rainbow.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Rainbow.Storage.Sc.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Rainbow.Storage.Yaml.dll
+c:\users\moo2u\onedrive\documents\visual studio 2015\Projects\SpeakImageOverlay\SpeakImageOverlay\bin\Unicorn.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\csc.exe
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\csc.exe.config
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\csc.rsp
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\csi.exe
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\csi.rsp
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.AppContext.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.Console.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.IO.FileSystem.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\vbc.exe
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\vbc.exe.config
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\vbc.rsp
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\VBCSCompiler.exe
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\SpeakImageOverlay.dll.config
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\SpeakImageOverlay.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\SpeakImageOverlay.pdb
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Antlr3.Runtime.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Castle.Core.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Castle.Windsor.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.CastleWindsor.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.Mvc.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Kamsar.WebConsole.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\MicroCHAP.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Newtonsoft.Json.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Rainbow.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Rainbow.Storage.Sc.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Rainbow.Storage.Yaml.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Kernel.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Mvc.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Helpers.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Mvc.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Razor.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.Deployment.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.Razor.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Unicorn.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Lucene.Net.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\ITHit.WebDAV.Server.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Logging.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\HtmlAgilityPack.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Mvp.Xml.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\ComponentArt.Web.UI.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Zip.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.NVelocity.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Logging.Client.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\RadEditor.Net2.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Telerik.Web.UI.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Antlr3.Runtime.pdb
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Castle.Core.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Castle.Windsor.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.pdb
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.pdb
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.CastleWindsor.pdb
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.CastleWindsor.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.Mvc.pdb
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Glass.Mapper.Sc.Mvc.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Newtonsoft.Json.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Sitecore.Kernel.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Helpers.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Mvc.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.Razor.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.Deployment.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\System.Web.WebPages.Razor.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Lucene.Net.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\HtmlAgilityPack.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\bin\Telerik.Web.UI.xml
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\obj\Debug\SpeakImageOverlay.csprojResolveAssemblyReference.cache
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\obj\Debug\SpeakImageOverlay.dll
+C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\obj\Debug\SpeakImageOverlay.pdb

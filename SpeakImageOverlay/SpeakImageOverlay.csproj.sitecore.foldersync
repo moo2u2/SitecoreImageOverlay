@@ -1,0 +1,6 @@
+﻿<Project>
+  <FolderSync SynchronizeProjectOutputFolderOnBuild="False">
+    <Folder SourceFolder="C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\Views" DestinationFolder="Views\" Mode="Mirror" Pattern="*" />
+    <Folder SourceFolder="C:\projects\other\SpeakImageOverlay\SpeakImageOverlay\Content" DestinationFolder="Content\" Mode="Mirror" Pattern="*" />
+  </FolderSync>
+</Project>
