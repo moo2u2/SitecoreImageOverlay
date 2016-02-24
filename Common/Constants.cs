@@ -1,4 +1,4 @@
-﻿namespace SpeakImageOverlay.Models
+﻿namespace SpeakImageOverlay.Common
 {
     public static class Constants
     {

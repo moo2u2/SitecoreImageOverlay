@@ -1,5 +1,6 @@
-﻿namespace SpeakImageOverlay.Models.Fields
+﻿namespace SpeakImageOverlay.Common.Fields
 {
+    using Common;
     using Sitecore.Data.Fields;
 
     public class ImageWithOverlayField : ImageField

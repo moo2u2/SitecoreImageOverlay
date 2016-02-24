@@ -1,14 +1,16 @@
-﻿namespace SpeakImageOverlay.Models.Handlers
+﻿namespace SpeakImageOverlay.Web.Models.Mappers
 {
     using System;
-    using Fields;
+    using Common;
+    using Models;
+    using Common.Fields;
     using Glass.Mapper.Sc;
     using Glass.Mapper.Sc.Configuration;
     using Glass.Mapper.Sc.DataMappers;
     using Sitecore.Data;
     using Sitecore.Data.Fields;
     using Sitecore.Data.Items;
-    
+
     public class ImageOverlayMapper : AbstractSitecoreFieldMapper
     {
         public ImageOverlayMapper()

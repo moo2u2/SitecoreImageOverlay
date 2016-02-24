@@ -1,8 +1,8 @@
-﻿namespace SpeakImageOverlay.Controllers
+﻿namespace SpeakImageOverlay.Web.Controllers
 {
     using System.Web.Mvc;
     using Glass.Mapper.Sc.Web.Mvc;
-    using Models;
+    using Web.Models;
 
     public class HomeController : GlassController
     {

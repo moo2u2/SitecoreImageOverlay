@@ -4,18 +4,18 @@ DO NOT CHANGE THIS FILE - UPDATE GlassMapperScCustom.cs
 
 **************************************/
 
-using Glass.Mapper.Maps;
-using Glass.Mapper.Sc.Configuration.Fluent;
-using Glass.Mapper.Sc.IoC;
-using Sitecore.Pipelines;
-
 // WebActivator has been removed. If you wish to continue using WebActivator uncomment the line below
 // and delete the Glass.Mapper.Sc.CastleWindsor.config file from the Sitecore Config Include folder.
 // [assembly: WebActivatorEx.PostApplicationStartMethod(typeof(SpeakImageOverlay.App_Start.GlassMapperSc), "Start")]
 
-namespace SpeakImageOverlay.App_Start
+namespace SpeakImageOverlay.Web
 {
-	public class  GlassMapperSc
+    using Glass.Mapper.Maps;
+    using Glass.Mapper.Sc.Configuration.Fluent;
+    using Glass.Mapper.Sc.IoC;
+    using Sitecore.Pipelines;
+
+    public class  GlassMapperSc
 	{
 		public void Process(PipelineArgs args){
 			GlassMapperSc.Start();

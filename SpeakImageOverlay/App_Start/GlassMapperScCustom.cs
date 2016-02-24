@@ -1,11 +1,11 @@
-namespace SpeakImageOverlay.App_Start
+namespace SpeakImageOverlay.Web
 {
+    using Castle.MicroKernel.Registration;
+    using Glass.Mapper;
     using Glass.Mapper.Configuration;
     using Glass.Mapper.IoC;
     using Glass.Mapper.Maps;
-    using Castle.MicroKernel.Registration;
-    using Glass.Mapper;
-    using Models.Handlers;
+    using Models.Mappers;
     using IDependencyResolver = Glass.Mapper.Sc.IoC.IDependencyResolver;
 
     public static  class GlassMapperScCustom

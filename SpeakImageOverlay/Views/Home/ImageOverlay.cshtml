@@ -1,8 +1,8 @@
 ﻿@using Glass.Mapper.Sc.Web.Mvc
-@model SpeakImageOverlay.Models.IPage
+@model SpeakImageOverlay.Web.Models.IPage
 
 @{
-    string[] coordinates = SpeakImageOverlay.Models.Constants.OverlayDefaultCoordinates.Split(',');
+    string[] coordinates = SpeakImageOverlay.Common.Constants.OverlayDefaultCoordinates.Split(',');
     if (Model != null && Model.PageImage != null && !string.IsNullOrEmpty(Model.PageImage.OverlayCoordinates))
     {
         coordinates = Model.PageImage.OverlayCoordinates.Split(',');

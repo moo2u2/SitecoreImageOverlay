@@ -13,8 +13,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SpeakImageOverlay</RootNamespace>
-    <AssemblyName>SpeakImageOverlay</AssemblyName>
+    <RootNamespace>SpeakImageOverlay.Web</RootNamespace>
+    <AssemblyName>SpeakImageOverlay.Web</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
@@ -166,15 +166,11 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\GlassMapperSc.cs" />
     <Compile Include="App_Start\GlassMapperScCustom.cs" />
-    <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\Constants.cs" />
-    <Compile Include="Models\Controls\ImageWithOverlay.cs" />
-    <Compile Include="Models\Fields\ImageWithOverlayField.cs" />
-    <Compile Include="Models\Handlers\ImageOverlayMapper.cs" />
+    <Compile Include="Models\Mappers\ImageOverlayMapper.cs" />
     <Compile Include="Models\ImageWithOverlay.cs" />
     <Compile Include="Models\IPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -229,6 +225,12 @@
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <Content Include="Views\Home\ImageOverlay.cshtml" />
     <Content Include="Views\Layouts\MainLayout.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{05e0c280-884a-4af5-a6d7-4f46bbeb4bdf}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -1,4 +1,4 @@
-﻿namespace SpeakImageOverlay.Models.Controls
+﻿namespace SpeakImageOverlay.Common.Controls
 {
     using System;
     using System.Linq;
@@ -55,7 +55,7 @@
                     return;
                 }
 
-                XmlValue.SetAttribute(Models.Constants.CoordinatesAttribute, args.Result);
+                XmlValue.SetAttribute(Common.Constants.CoordinatesAttribute, args.Result);
                 Update();
                 SetModified();
                 SheerResponse.Refresh(this);
@@ -70,7 +70,7 @@
                     urlString["fo"] = selectedImage.Uri.ToString();
                 }
 
-                string coords = XmlValue.GetAttribute(Models.Constants.CoordinatesAttribute);
+                string coords = XmlValue.GetAttribute(Common.Constants.CoordinatesAttribute);
                 if (!string.IsNullOrEmpty(coords))
                 {
                     urlString["coords"] = coords;
@@ -91,13 +91,13 @@
             string str1 = " src=\"" + src + "\"";
             string str2 = " id=\"" + ID + "_image\"";
             string str3 = " alt=\"" + (mediaItem != null ? WebUtil.HtmlEncode(mediaItem["Alt"]) : string.Empty) + "\"";
-            string coordinates = XmlValue.GetAttribute(Models.Constants.CoordinatesAttribute);
+            string coordinates = XmlValue.GetAttribute(Common.Constants.CoordinatesAttribute);
             int width = Convert.ToInt32(mediaItem["Width"]);
             int height = Convert.ToInt32(mediaItem["Height"]);
             double scale = 128.0 / height;
             if (string.IsNullOrEmpty(coordinates))
             {
-                coordinates = Models.Constants.OverlayDefaultCoordinates;
+                coordinates = Common.Constants.OverlayDefaultCoordinates;
             }
 
             int[] coords = coordinates.Split(',').Select(int.Parse).ToArray();
@@ -199,7 +199,7 @@
 
                 stringBuilder.Append("</div>");
                 stringBuilder.Append("<div style=\"padding:2px 0px 0px 0px\">");
-                string str7 = WebUtil.HtmlEncode(xmlValue.GetAttribute(Models.Constants.CoordinatesAttribute));
+                string str7 = WebUtil.HtmlEncode(xmlValue.GetAttribute(Common.Constants.CoordinatesAttribute));
                 stringBuilder.Append(!string.IsNullOrEmpty(str7) ? Translate.Text("Overlay coordinates: {0}", str7) : Translate.Text("Overlay coordinates: No coordinates set, using 100,100."));
 
                 stringBuilder.Append("</div>");
