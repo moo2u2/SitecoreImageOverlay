@@ -87,26 +87,35 @@
         {
             Assert.ArgumentNotNull(output, "output");
             Item mediaItem = GetMediaItem();
+            
             string src = GetSrc();
             string str1 = " src=\"" + src + "\"";
             string str2 = " id=\"" + ID + "_image\"";
             string str3 = " alt=\"" + (mediaItem != null ? WebUtil.HtmlEncode(mediaItem["Alt"]) : string.Empty) + "\"";
             string coordinates = XmlValue.GetAttribute(Common.Constants.CoordinatesAttribute);
-            int width = Convert.ToInt32(mediaItem["Width"]);
-            int height = Convert.ToInt32(mediaItem["Height"]);
-            double scale = 128.0 / height;
+            
             if (string.IsNullOrEmpty(coordinates))
             {
                 coordinates = Common.Constants.OverlayDefaultCoordinates;
             }
 
             int[] coords = coordinates.Split(',').Select(int.Parse).ToArray();
-
+            
             // base.DoRender(output);
             output.Write("<div id=\"" + ID + "_pane\" class=\"scContentControlImagePane\" style=\"position:relative\">");
             output.Write("<div class=\"scContentControlImageImage\">");
+
             output.Write("<img src=\"/Content/images/overlay.png?w=49\" style=\"position:absolute;left:" + Math.Round((coords[0] / 10.0) + 12) + "px;top:" + Math.Round((coords[1] / 10.0) + 8) + "px;width:49px;\">");
-            output.Write("<iframe" + str2 + str1 + str3 + " frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" width=\"" + Math.Round(scale * width) + "px\" height=\"" + Math.Round(scale * height) + "px\" allowtransparency=\"allowtransparency\"></iframe>");
+            string dimensions = "";
+            if (mediaItem != null)
+            {
+                int width = Convert.ToInt32(mediaItem["Width"]);
+                int height = Convert.ToInt32(mediaItem["Height"]);
+                double scale = 128.0 / height;
+                dimensions = "width=\"" + Math.Round(scale*width) + "px\" height=\"" + Math.Round(scale*height) + "px\"";
+            }
+            output.Write("<iframe" + str2 + str1 + str3 + " frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" " + dimensions + " allowtransparency=\"allowtransparency\"></iframe>");
+
             output.Write("</div>");
             output.Write("<div id=\"" + ID + "_details\" class=\"scContentControlImageDetails\">");
             string details = GetDetails();
