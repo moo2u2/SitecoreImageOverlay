@@ -4,7 +4,7 @@
             var app = this;
             var scale = 1;
 
-            var itemUriString = _sc.Helpers.url.getQueryParameters(window.location.href)['fo'];
+            var itemUriString = _sc.Helpers.url.getQueryParameters(window.location.href)['fo'] || "";
             var itemPath = null;
             try {
                 var itemUri = new URL(itemUriString);
